@@ -1,0 +1,65 @@
+echo: Exibe uma linha de texto ou uma variável no terminal.
+wc: Conta linhas, palavras e caracteres em arquivos ou entradas de texto.
+piping (|): Encaminha a saída de um comando para a entrada de outro.
+sort: Ordena as linhas de texto em arquivos ou entradas.
+uniq: Remove linhas duplicadas consecutivas em arquivos ou entradas de texto.
+expansions: Expansão de variáveis, globbing, ou aliases para simplificar comandos.
+diff: Compara dois arquivos e mostra as diferenças linha por linha.
+find: Pesquisa por arquivos e diretórios no sistema baseado em critérios.
+grep: Pesquisa por padrões em arquivos ou entradas de texto.
+du: Mostra o uso de espaço em disco de arquivos e diretórios.
+df: Exibe o uso do sistema de arquivos, incluindo o espaço livre.
+ps: Mostra informações sobre processos em execução.
+top: Ferramenta de monitoramento de processos em tempo real.
+kill: Envia sinais para terminar processos com base em seu PID.
+killall: Envia sinais para terminar todos os processos com o nome especificado.
+jobs, bg, and fg: Gerencia tarefas em segundo plano e traz tarefas de volta ao primeiro plano.
+gzip: Comprime arquivos para o formato .gz.
+gunzip: Descomprime arquivos no formato .gz.
+tar: Cria e manipula arquivos compactados em formato .tar.
+nano: Um editor de texto simples no terminal.
+alias: Cria atalhos personalizados para comandos no terminal.
+xargs: Constrói e executa comandos a partir de dados da entrada padrão.
+ln: Cria links simbólicos ou físicos para arquivos e diretórios.
+who: Mostra quem está logado no sistema.
+su: Troca para outro usuário, mantendo a sessão atual.
+sudo: Executa comandos como superusuário ou com permissões elevadas.
+passwd: Altera a senha de um usuário.
+chown: Altera o proprietário de arquivos e diretórios.
+Understanding permissions: Compreender as permissões de leitura, escrita e execução (rwx) em arquivos e diretórios.
+chmod: Altera as permissões de arquivos e diretórios.
+ls: Lista o conteúdo de diretórios.
+man: Exibe o manual de um comando.
+clear: Limpa o terminal, removendo o conteúdo da tela.
+mkdir: Cria novos diretórios.
+cd: Muda o diretório atual.
+pwd: Exibe o caminho completo do diretório atual.
+whoami: Exibe o nome do usuário logado.
+Redirecionadores (>, >>, <): Redirecionam a entrada e saída de comandos para arquivos ou dispositivos.
+criar e acessar pasta com nome composto: Cria e acessa diretórios com nomes que contêm espaços (usar aspas ou escape \).
+touch: Cria arquivos vazios ou atualiza o timestamp de arquivos.
+nano: Um editor de texto fácil de usar no terminal.
+cat: Exibe o conteúdo de arquivos.
+mv: Move ou renomeia arquivos e diretórios.
+cp: Copia arquivos e diretórios.
+find: Pesquisa arquivos com base em critérios (repetido, já comentado acima).
+head & tail: Mostra as primeiras (head) ou últimas (tail) linhas de um arquivo.
+less: Visualiza o conteúdo de arquivos de forma paginada.
+rm: Remove arquivos ou diretórios.
+rmdir: Remove diretórios vazios.
+rm -rf: Remove arquivos e diretórios recursivamente, sem pedir confirmação.
+hostname: Mostra ou define o nome do host do sistema.
+hostname -i: Exibe o endereço IP associado ao nome do host.
+ip a: Exibe informações de interfaces de rede e endereços IP.
+grep: Pesquisa por padrões em arquivos ou entradas de texto (repetido, já comentado acima).
+ping: Verifica a conectividade com outro host na rede.
+top: Monitor de processos em tempo real (repetido, já comentado acima).
+htop: Versão interativa e colorida do comando top.
+ps: Exibe processos em execução .
+ps aux: Exibe todos os processos, incluindo os de outros usuários e sem controle de terminal.
+kill: Envia sinais para terminar processos com base em seu PID .
+df -h: Exibe o uso do sistema de arquivos com tamanhos legíveis para humanos.
+ncdu: Interface de usuário em terminal para visualizar o uso de disco.
+uname: Mostra informações sobre o sistema operacional e o kernel.
+lscpu & lsusb: Mostra informações sobre a CPU (lscpu) e dispositivos USB (lsusb).
+history: Exibe o histórico de comandos usados no terminal.
