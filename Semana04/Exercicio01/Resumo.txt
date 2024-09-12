@@ -1,0 +1,27 @@
+Estrutura do programa Estrutura do programa: 
+Depende do processo ou métodos. Os códigos são organizados em tarefas com uso intensivo de informações. 
+Exemplo: C, Pascal.  
+
+Programação Orientada a Objetos (OOP): Depende do conteúdo dos dados e do comportamento. Promover a reutilização e padronização de políticas. 
+Exemplo: C#, Java.
+
+Benefícios da POO:POO ajuda a criar soluções melhores:
+Modular código: Fornece manutenção e extensão facilmente. 
+Reutilizar componentes: Classes e objetos podem ser reutilizados em diferentes partes do programa. 
+Facilita a compeensão: Modelos de software próximos do mundo real. 
+
+Princípios básicos de OOP Categoria e destino: 
+Classe: descreve a estrutura e as características de um grupo de objetos. 
+Objeto: uma instância de uma classe. Representa uma entidade  com estado e comportamento. 
+
+Encapsulamento: Oculte o conteúdo de um objeto e revele apenas o que é relevante. 
+Melhore a segurança e a integridade dos dados.  
+Exemplo: A propriedade privada só pode ser usada de forma pública. 
+Resumo: Simplifica o complexo concentrando-se nas partes essenciais.
+Exemplo: A classe Motor pode ter métodos como Add e Stop sem expor a funcionalidade do motor. 
+
+Herança: Deixe uma classe herdar outra, herdando suas características e modos. Fácil de reutilizar e adicionar. 
+Exemplo: Uma garagem pode ser  base para um carro e uma moto. 
+
+Polimorfismo: Dê coisas diferentes para classes diferentes. Isso pode ser feito sobrecarregando processos e interfaces.  
+Exemplo: O método draw pode ser usado de diversas maneiras nas classes Circle e Rectangle, mas tem o mesmo nome.
